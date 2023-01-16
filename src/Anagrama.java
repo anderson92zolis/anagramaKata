@@ -8,16 +8,16 @@ public class Anagrama {
 		// TODO Auto-generated method stub
 		
 	ArrayList<String> words= new ArrayList<String>();
-	words.add("HOLA");
-	words.add("ALAaaa");
-	words.add("soidaa");
-	words.add("osooaa");
-	words.add("soida");
+	words.add("duel");
+	words.add("speed");
+	words.add("dule");
+	words.add("coche");
+	//words.add("soida");
 	
 	ArrayList<String>  queries= new ArrayList<String>();
-	queries.add("ALOH");
-	queries.add("adiSO");
-	queries.add("oooS");
+	queries.add("spede");
+	queries.add("deul");
+	//queries.add("oooS");
 	
 	getSearchResult(words,queries);
 	
